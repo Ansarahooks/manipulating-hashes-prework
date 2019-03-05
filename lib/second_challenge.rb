@@ -8,6 +8,6 @@ def second_challenge
 
   #code your solution here!
 all_groceries = []
-groceries[:dairy].values
+groceries.values_at(:dairy)
 
 end
