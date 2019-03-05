@@ -10,6 +10,4 @@ def second_challenge
 all_groceries = []
 groceries[:dairy].values
 
-
-
 end
